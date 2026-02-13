@@ -3,8 +3,6 @@
 **Portfolio Project:** Weather Data Cleaning & Exploration with Python
 
 ## Overview
-
-## Overview
 A data cleaning and exploratory analysis project using **Open-Meteo** historical weather data
 for London, Manchester, and Edinburgh (2020–2024).
 
